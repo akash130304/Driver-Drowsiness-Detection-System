@@ -25,8 +25,7 @@ This project detects driver drowsiness in real time using computer vision techni
 
 ## 📊 Results
 - Real-time detection achieved
-- Works at ~XX FPS (fill if you know)
-- Accuracy: XX% (fill if available)
+
 ## 📸 Demo
 
 ![Drowsiness Detection](assets/Drowsy.png)
