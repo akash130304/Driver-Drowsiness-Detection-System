@@ -27,6 +27,11 @@ This project detects driver drowsiness in real time using computer vision techni
 - Real-time detection achieved
 - Works at ~XX FPS (fill if you know)
 - Accuracy: XX% (fill if available)
+## 📸 Demo
+
+![Drowsiness Detection](assets/Drowsy.png)
+![Drowsiness Detection](assets/Yawn.png)
+
 
 ## ▶️ How to Run
 
@@ -34,4 +39,6 @@ This project detects driver drowsiness in real time using computer vision techni
 git clone https://github.com/akash130304/Driver-Drowsiness-Detection-System.git
 cd Driver-Drowsiness-Detection-System
 pip install -r requirements.txt
-python main.py
+python main.py'''
+
+
